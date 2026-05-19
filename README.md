@@ -4,7 +4,7 @@ PASC 2026 ACM SRC Poster
 
 ## Poster
 
-- [Poster PDF](PASC26-ACM-SSRC-Poster.pdf)
+- [Poster PDF](PASC26-ACM-SRC-Poster.pdf)
 
 
 ## Author
