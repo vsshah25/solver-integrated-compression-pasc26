@@ -10,7 +10,11 @@ PASC 2026 ACM SRC Poster
 ## Author
 
 viralss2@illinoi.edu
+
 Viral Sudip Shah  
+
 PhD student
+
 Mechanical Science and Engineering
+
 University of Illinois Urbana-Champaign
